@@ -1,0 +1,19 @@
+{
+    "dark_preset": {
+      "background-0": "#282828",
+      "background-1": "#98971A",
+      "background-2": "#D79921",
+      "borders": "#928374",
+      "links": "#83A598",
+      "sidebar": "#2e2e2e",
+      "sidebar-text": "#FBF1C7",
+      "text-0": "#EBDBB2",
+      "text-1": "#EBDBB2",
+      "text-2": "#A89984"
+    },
+    "card_colors": null,
+    "custom_font": {
+      "family": "'Roboto Mono'",
+      "link": "Roboto+Mono:wght@400;700"
+    }
+  }
